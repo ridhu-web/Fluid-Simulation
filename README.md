@@ -1,6 +1,15 @@
 # Instructions
 Credits: The support code in this repo has been created by Andrew Wentzel, a member of the Electronic Visualization Laboratory, as teaching support for UIC's CS529 Visual Data Science course.
 
+
+
+### Reasonings
+    1. Mapped the color of glyphs to concentration.
+    2. Created a textbox to enter the desired threshold.
+    3. After the user has entered a threshold, the colors and legend is mapped from the threshold value to maximum value. This gives the user wide range of colors to differentiate in the window.
+    4. The 3D plane also changes with 2D plane when the user enters a threshold.
+    5. A circle is attached at the end of glyph, the size of the circle is mapped to concentration.
+
 ### Getting the code
 
 Follow the same steps as in Hw01, but using the Hw02 git code repository.
