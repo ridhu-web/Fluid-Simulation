@@ -3,10 +3,10 @@ Credits: The support code in this repo has been created by Andrew Wentzel, a mem
 
 
 
-### Reasonings
+### Changes
     1. Mapped the color of glyphs to concentration.
     2. Created a textbox to enter the desired threshold.
-    3. After the user has entered a threshold, the colors and legend is mapped from the threshold value to maximum value. This gives the user wide range of colors to differentiate in the window.
+    3. After the user has entered a threshold, the colors of glyphs is mapped from the threshold value to maximum value. The legend also changes dynamically. This gives the user wide range of colors to differentiate the glyphs in the window.
     4. The 3D plane also changes with 2D plane when the user enters a threshold.
     5. A circle is attached at the end of glyph, the size of the circle is mapped to concentration.
 
