@@ -1,5 +1,5 @@
 # Instructions
-Credits: The support code in this repo has been created by Andrew Wentzel, a member of the Electronic Visualization Laboratory, as teaching support for UIC's CS529 Visual Data Science course.
+Credits: The support code for the assignment has been created by Andrew Wentzel, a member of the Electronic Visualization Laboratory, as teaching support for UIC's CS529 Visual Data Science course.
 
 
 
